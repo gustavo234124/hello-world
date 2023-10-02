@@ -10,5 +10,5 @@ repositorio para comenzar a usar git y github y comprender como funcionan los ar
 
 aqui esta la tercera rama con el codigo mas modificado y agregandoles nuevas etiquetas 
 
-<img src=" ![image](https://github.com/gustavo234124/hello-world/assets/82337490/ad26e279-2cc4-49f1-be21-e616b4cac7dd)
-"></img>
+![image](https://github.com/gustavo234124/hello-world/assets/82337490/749d37b6-644a-4e13-bddc-affe68facd46)
+
